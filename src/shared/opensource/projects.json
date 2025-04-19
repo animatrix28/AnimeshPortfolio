@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "id": "nightmare studios",
+      "name": "Contortion",
+      "createdAt": "2024-12-05T04:18:19Z",
+      "demourl": "https://animatrix28.github.io/Contortion/",
+      "repourl":"https://github.com/animatrix28/nightmare-studios",
+      "description": "2D Platfotmer Game that features environment manipulation built using Unity and C#",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Unity",
+          "iconifyClass": "logos:unity"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "US Stocks React",
+      "name": "US Stock Market Portfolio",
+      "createdAt": "2024-03-25T20:41:33Z",
+      "demourl": "https://usstock-git-main-animesh-srivastavas-projects-215ba52f.vercel.app/",
+      "repourl": "https://github.com/animatrix28/webdevass3-frontend",
+      "description": "A responsive stock analysis platform featuring live US stock data, interactive charts, and a trading experience",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos:nodejs-icon"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos:mongodb"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos:aws"
+        },
+        {
+          "name": "Google Cloud",
+          "iconifyClass": "logos:google-cloud"
+        }
+      ]
+    },
+    {
+      "id": "Trip Planner and Recommender using Flutter and Tensorflow",
+      "name": "Trip Planner and Recommender using Flutter and Tensorflow",
+      "createdAt": "2022-04-09T16:26:54Z",
+      "demourl": "https://drive.google.com/file/d/1SqoTyr8t58EnMv1kMaBpob6GxTtL8CKe/view",
+      "repourl":"https://github.com/animatrix28/Trip-Planner-and-Recommender",
+      "description": "A mobile application built with Flutter and TensorFlow that recommends personalized travel destinations based on user preferences and behavior.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos:flutter"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos:tensorflow"
+        },
+        {
+          "name": "Dart",
+          "iconifyClass": "logos:dart"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        }
+      ]
+    },
+    {
+      "id": "A Conceptual Model Simulation to Detect and Report City Traffic Violations Using Distributed Intelligent Agents",
+      "name": "A Conceptual Model Simulation to Detect and Report City Traffic Violations Using Distributed Intelligent Agents",
+      "createdAt": "2021-04-04T14:50:20Z",
+      "repourl": "https://github.com/animatrix28/traffic_violation_detection",
+      "description": "A Java-based simulation that uses distributed intelligent agents to detect and report traffic violations in real time",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos:java"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos:mysql"
+        },
+        {
+          "name": "Distributed Systems",
+          "iconifyClass": "carbon:cloud-satellite"
+        },
+        {
+          "name": "Simulation",
+          "iconifyClass": "mdi:animation-play"
+        }
+      ]
+    },
+    {
+      "id": "C Compiler",
+      "name": "A mini compiler for a subset of C Language",
+      "createdAt": "2020-06-10T17:56:07Z",
+      "repourl": "https://github.com/animatrix28/A-mini-compiler-for-a-subset-of-C-language",
+      "description": "A mini-compiler for C, developed with Lex and Yacc, supporting basic syntax checks and line-specific error reporting.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C",
+          "iconifyClass": "logos:c"
+        },
+        {
+          "name": "Yacc",
+          "iconifyClass": "simple-icons:gnu"
+        },
+        {
+          "name": "Compiler Design",
+          "iconifyClass": "icon-park-outline:code-computer"
+        }
+      ]
+    }
+  ]
+}

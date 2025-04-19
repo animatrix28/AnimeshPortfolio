@@ -1,0 +1,55 @@
+{
+	"title": "Experience",
+	"subtitle": "Work, Internship and Volunteership",
+	"description":
+		"I’ve worked with both startups and global firms like American Express as a Backend and Full-Stack Developer. With 3+ years of experience, I’ve built scalable applications, optimized APIs and data pipelines, automated workflows, and published research in Recommendation Systems and Distributed Computing. My work spans web, mobile, data, and cloud platforms, and I actively engage with the tech community through hackathons, tech events, and open-source contributions.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Work",
+			"experiences": [
+				{
+					"title": "Software Developer Engineer Intern",
+					"company": "Redvest",
+					"company_url": "https://www.redvest.app/",
+					"logo_path": "redvest_logo.png",
+					"duration": "May 2024 - October 2024",
+					"location": "Los Angeles, CA, USA",
+					"description":
+					  "At Redvest, I worked on real-time financial platforms to deliver faster, data-driven investment insights. I designed backend data pipelines, optimized APIs using Python Multithreading and built a live dashboard using React to reduce latency and enhance performance. The goal was to create scalable tools for smarter financial decision-making. I also represented the startup at 'TechCrunch Disrupt', showcasing our innovations to investors and the tech community.",
+					"color": "#0879bf"
+				  },
+				  {
+					"title": "Backend Developer",
+					"company": "Tata Consultancy Services",
+					"company_url": "https://www.tcs.com/",
+					"logo_path": "tcs_logo.png",
+					"duration": "Jan 2021 - July 2023",
+					"location": "Bangalore, KA, India",
+					"description":
+					  "I contributed to backend systems powering global-scale financial services at American Express. My work involved automating compliance reporting using Java and PL/SQL, building efficient ETL pipelines with PySpark and MongoDB, and ensuring seamless server migrations through Putty and SQL. The focus was on improving regulatory workflows and making data flows more reliable and fault-tolerant. I also resolved critical production failures by optimizing MySQL jobs and debugging data inconsistencies, ensuring high availability and fault tolerance across services.",
+					"color": "#000000"
+				  },
+				  {
+					"title": "Mobile App Developer Intern",
+					"company": "Ungrezi",
+					"company_url": "https://ungrezi.com/",
+					"logo_path": "ungrezi_logo.png",
+					"duration": "Sep 2020 - Nov 2020",
+					"location": "Bangalore, KA, India",
+					"description":
+					  "At Ungrezi, I developed sleek and responsive UIs for an English learning app using Flutter, based on Figma designs. I integrated Firebase Authentication and Google Sign-In to streamline user access, and focused on improving performance and usability. The goal was to make language learning simple, fast, and engaging through an intuitive mobile experience.",
+					"color": "#ee3c26"
+				  }
+			]
+		},
+		{
+			"title": "Internships",
+			"experiences": []
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": []
+		}
+	]
+}
