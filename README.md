@@ -1,5 +1,5 @@
-# AnimeshPortfolio
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
+<h1 align="center"> Animesh Portfolio </h1> 
+<h2 align="center"> Software Developer 🔥 </h2> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
 <p align="center">
