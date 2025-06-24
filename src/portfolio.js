@@ -672,7 +672,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Software Developer Engineer Intern",
+          title: "Founding Engineer",
           company: "Redvest",
           company_url: "https://www.redvest.app/",
           logo_path: "redvest_logo.png",
