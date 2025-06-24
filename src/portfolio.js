@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Animesh Srivastava Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://animatrix28.github.io/",
   },
 };
 
