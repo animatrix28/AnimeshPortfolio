@@ -35,9 +35,9 @@ const socialMediaLinks = [
   // github: "https://github.com/animatrix28",
   // linkedin: "https://www.linkedin.com/in/animesh28/",
   // gmail: "sri.animesh28@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // gitlab: "",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
+  // twitter: "",
   // instagram: "https://www.instagram.com/animatrix0007/",
 
   {
@@ -458,7 +458,7 @@ const competitiveSites = {
     //     style: {
     //       color: "#5B4638",
     //     },
-    //     profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    //     profileLink: "",
     //   },
     //   {
     //     siteName: "Codeforces",
@@ -474,7 +474,7 @@ const competitiveSites = {
     //     style: {
     //       color: "#323754",
     //     },
-    //     profileLink: "https://www.hackerearth.com/@ashutosh391",
+    //     profileLink: "",
     //   },
     //   {
     //     siteName: "Kaggle",
